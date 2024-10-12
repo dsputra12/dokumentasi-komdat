@@ -99,3 +99,9 @@ Ketika dibandingkan dengan CMS lain yang menawarkan layanan serupa dari penerbit
 
 # Kesimpulan 
 Sonarr TV adalah alat yang sangat berguna bagi penggemar acara TV yang ingin mengelola koleksi mereka secara otomatis dan efisien. Meskipun memiliki beberapa kekurangan, kelebihan dan fitur-fiturnya menjadikannya pilihan yang unggul dalam kategori manajemen unduhan acara TV. Ketika dibandingkan dengan CMS serupa, Sonarr menawarkan fokus yang lebih khusus pada acara TV, menjadikannya lebih relevan bagi pengguna yang berfokus pada jenis media tersebut.
+
+# Referensi
+[Official SonarrTV Website](https://sonarr.tv) - Official Website SonarrTV
+[Official Radarr Website](https://radarr.video) - Official Website Radarr
+[Radarr Servarr Wiki](https://wiki.servarr.com/en/radarr) - Sonarr Wiki
+[Sonarr Servarr Wiki](https://wiki.servarr.com/en/sonarr) - Radarr Wiki
