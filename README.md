@@ -60,6 +60,33 @@
    2024-10-12T02:49:42Z INF |  https://campaign-ins-solutions-pierre.trycloudflare.com                                   |
    2024-10-12T02:49:42Z INF +--------------------------------------------------------------------------------------------+
    ```
+
+# Cara Pemakaian
+A. Konfigurasi Awal
+1. Atur Path Penyimpanan
+   - Pergi ke menu **Settings** > **Media Management** > **Root Folders**
+   - Tambahkan direktori untuk menyimpan unduhan acara TV
+2. Tambahkan Indexer
+   - Pergi ke **Settings** > **Indexers**
+   - Klik tombol **Add Indexer** dan pilih salah satu layanan penyedia torrent atau NZB (misalnya, Rarbg, Jackett, atau Omgwtfnzbs)
+   - Masukkan API Key dan informasi lainnya sesuai kebutuhan
+3. Tambahkan Downloader
+   - Pergi ke **Settings** > **Download Client**
+   - Klik **Add Client** dan pilih aplikasi downloader digunakan, seperti **qBittorrent**, **Transmission**, atau **NZBGet**
+   - Masukkan detail yang diperlukan, seperti host, port, username, dan password downloader
+4. Atur Kualitas
+   - Pergi ke **Settings** > **Quality** dan sesuaikan format dan ukuran file yang ingin diunduh (misalnya, 1080p, 720p, atau SD)
+  
+B. Menambahkan Acara TV
+1. Cari dan Tambahkan Acara TV
+   - Klik tombol **Series** di menu utama
+   - Pilih **Add Series**, lalu masukkan nama acara TV yang ingin dipantau
+   - Sonarr akan mencari informasi acara TV tersebut dari berbagai sumber (seperti **TVDB** atau **TMDB**)
+2. Atur Path
+   - Saat menambahkan acara TV, pilih direktori tempat Sonarr akan menyimpan file unduhan
+3. Konfigurasi Monitoring
+   - Pilih episode atau musim yang ingin kamu pantau, apakah semua episode, episode tertentu, atau hanya episode terbaru
+
 # Pembahasan
 ***Sonarr*** adalah aplikasi PVR open-source yang dirancang untuk mengelola dan mengotomatisasi unduhan acara TV. Dengan Sonarr, pengguna dapat menambahkan serial TV ke dalam perpustakaan mereka, dan aplikasi ini secara otomatis akan mencari dan mengunduh episode baru dari berbagai sumber, termasuk torrent dan Usenet.
 
