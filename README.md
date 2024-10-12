@@ -98,7 +98,9 @@ Ketika dibandingkan dengan CMS lain yang menawarkan layanan serupa dari penerbit
      - Radarr memiliki fitur serupa untuk film, tetapi dengan pengaturan yang mungkin berbeda. 
 
 # Kesimpulan 
-Sonarr TV adalah alat yang sangat berguna bagi penggemar acara TV yang ingin mengelola koleksi mereka secara otomatis dan efisien. Meskipun memiliki beberapa kekurangan, kelebihan dan fitur-fiturnya menjadikannya pilihan yang unggul dalam kategori manajemen unduhan acara TV. Ketika dibandingkan dengan CMS serupa, Sonarr menawarkan fokus yang lebih khusus pada acara TV, menjadikannya lebih relevan bagi pengguna yang berfokus pada jenis media tersebut.
+**Sonarr** adalah aplikasi web open-source yang sangat berguna sebagai PVR untuk mengelola unduhan acara TV secara otomatis. Dengan kemampuan memantau RSS Feeds dan mengunduh episode terbaru secara otomatis, Sonarr sangat cocok bagi pengguna yang ingin menghemat waktu dalam mencari dan mengelola konten. Kelebihannya antara lain automasi unduhan, integrasi dengan berbagai klien torrent dan Usenet, serta antarmuka web yang memudahkan pengelolaan koleksi acara TV. Selain itu, fitur pengaturan notifikasi dan manajemen metadata menambah nilai tambah aplikasi ini. Namun, kekurangannya meliputi ketergantungan pada sumber eksternal untuk unduhan dan kompleksitas instalasi awal, terutama bagi pengguna baru.
+
+Dibandingkan dengan aplikasi sejenis seperti Radarr, Sonarr lebih fokus pada acara TV, sementara Radarr ditujukan untuk pengelolaan film. Kedua aplikasi ini menawarkan fitur serupa dalam hal otomatisasi, integrasi dengan klien unduhan, dan pengelolaan metadata, tetapi Sonarr lebih dioptimalkan untuk serial TV. Meskipun memiliki kekurangan seperti keterbatasan pengelolaan film dan potensi masalah legalitas terkait hak cipta, Sonarr tetap menjadi pilihan yang unggul untuk pengguna yang ingin mengelola koleksi acara TV mereka secara efisien.
 
 # Referensi
 1. [Official SonarrTV Website](https://sonarr.tv) - Official Website SonarrTV
