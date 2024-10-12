@@ -1,4 +1,4 @@
-# Sekilas tentang
+# Sekilas Tentang
 **Sonar** adalah sebuah *Private Video Recorder* (PVR) untuk konten-konten video dan acara TV yang gratis dan *open source*. Sonarr mampu memonitor RSS Feeds untuk acara-acara TV yang baru saja rilis, dan mampu melakukan pengunduhan, *sorting*, dan modifikasi secara otomatis. Selain itu, Sonarr juga dapat dikonfigurasi untuk melakukan *upgrade* secara otomatis terhadap kualitas *files* yang diunduh apabila kualitas terbaru sudah tersedia 
 
 # Instalasi
