@@ -28,7 +28,7 @@
    wget "https://services.sonarr.tv/v1/download/main/latest?version=4&os=linux&arch=x64" -O sonarr.tar.gz
    ```
 
-3.  Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan, disini saya langsung mengekstrak file di direktori home/username 
+3. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan, disini saya langsung mengekstrak file di direktori home/username 
    ```
    tar -xvzf sonarr.tar.gz
    ```
