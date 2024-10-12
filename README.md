@@ -60,4 +60,9 @@
    2024-10-12T02:49:42Z INF |  https://campaign-ins-solutions-pierre.trycloudflare.com                                   |
    2024-10-12T02:49:42Z INF +--------------------------------------------------------------------------------------------+
    ```
+# Pembahasan
+Sonarr adalah aplikasi open-source yang dirancang untuk mengelola dan mengotomatisasi unduhan acara TV. Dengan Sonarr, pengguna dapat menambahkan serial TV ke dalam perpustakaan mereka, dan aplikasi ini secara otomatis akan mencari dan mengunduh episode baru dari berbagai sumber, termasuk torrent dan Usenet.
 
+Bahasa Pemrograman: Sonarr dibangun menggunakan bahasa pemrograman C# dan menggunakan framework .NET. Ini memungkinkan aplikasi berjalan di berbagai sistem operasi, termasuk Windows, macOS, dan Linux.
+Database: Sonarr menggunakan SQLite sebagai database untuk menyimpan informasi mengenai acara TV, episode, dan pengaturan pengguna.
+Antarmuka Pengguna: Sonarr memiliki antarmuka pengguna berbasis web yang memudahkan pengguna untuk menavigasi dan mengelola koleksi acara TV mereka.
