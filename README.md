@@ -71,22 +71,28 @@ A. Konfigurasi Awal
    - Pergi ke **Settings** > **Indexers**
    - Klik tombol **Add Indexer** dan pilih salah satu layanan penyedia torrent atau NZB (misalnya, Rarbg, Jackett, atau Omgwtfnzbs)
    - Masukkan API Key dan informasi lainnya sesuai kebutuhan
+![ss-a1](assets/ss-a2.png)
 3. Tambahkan Downloader
    - Pergi ke **Settings** > **Download Client**
    - Klik **Add Client** dan pilih aplikasi downloader digunakan, seperti **qBittorrent**, **Transmission**, atau **NZBGet**
    - Masukkan detail yang diperlukan, seperti host, port, username, dan password downloader
+![ss-a1](assets/ss-a3.png)
 4. Atur Kualitas
    - Pergi ke **Settings** > **Quality** dan sesuaikan format dan ukuran file yang ingin diunduh (misalnya, 1080p, 720p, atau SD)
+![ss-a1](assets/ss-a4.png)
   
 B. Menambahkan Acara TV
 1. Cari dan Tambahkan Acara TV
    - Klik tombol **Series** di menu utama
    - Pilih **Add Series**, lalu masukkan nama acara TV yang ingin dipantau
    - Sonarr akan mencari informasi acara TV tersebut dari berbagai sumber (seperti **TVDB** atau **TMDB**)
+![ss-a1](assets/ss-b1.png)
 2. Atur Path
    - Saat menambahkan acara TV, pilih direktori tempat Sonarr akan menyimpan file unduhan
+![ss-a1](assets/ss-b2.png)
 3. Konfigurasi Monitoring
    - Pilih episode atau musim yang ingin kamu pantau, apakah semua episode, episode tertentu, atau hanya episode terbaru
+![ss-a1](assets/ss-b3.png)
 
 # Pembahasan
 ***Sonarr*** adalah aplikasi PVR open-source yang dirancang untuk mengelola dan mengotomatisasi unduhan acara TV. Dengan Sonarr, pengguna dapat menambahkan serial TV ke dalam perpustakaan mereka, dan aplikasi ini secara otomatis akan mencari dan mengunduh episode baru dari berbagai sumber, termasuk torrent dan Usenet.
