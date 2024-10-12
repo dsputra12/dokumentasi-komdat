@@ -66,7 +66,7 @@ A. Konfigurasi Awal
 1. Atur Path Penyimpanan
    - Pergi ke menu **Settings** > **Media Management** > **Root Folders**
    - Tambahkan direktori untuk menyimpan unduhan acara TV
-![ss-a1](https://drive.google.com/file/d/1Od2hIt_8gG2vcqLLR7nLheT6mKgECfWm/view?usp=sharing)
+![ss-a1](screenshots/ss-a1.png)
 2. Tambahkan Indexer
    - Pergi ke **Settings** > **Indexers**
    - Klik tombol **Add Indexer** dan pilih salah satu layanan penyedia torrent atau NZB (misalnya, Rarbg, Jackett, atau Omgwtfnzbs)
